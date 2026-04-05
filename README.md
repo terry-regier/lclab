@@ -1,2 +1,2 @@
-# lclab-berkeley
+# lclab
 Language and Cognition Lab
