@@ -1,2 +1,2 @@
 # lclab-berkeley
-Language and Cognition Lab at UC Berkeley
+Language and Cognition Lab
